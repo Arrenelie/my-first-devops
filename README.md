@@ -26,5 +26,14 @@ My DevOps Project
 
   
 Скриншоты: 
- [Hello, DevOps World!](my-first-devops/Hello, DevOps World!.png)
- 
+ <p align="center">
+  <img src="scrshts/Hello_from_docker.png" alt="Hello from Docker" width="600"/>
+  <br>
+  <em>Hello from Docker - работа в контейнере</em>
+</p>
+
+<p align="center">
+  <img src="scrshts/Hello%2C%20DevOps%20World%21.png" alt="Hello DevOps World" width="600"/>
+  <br>
+  <em>Hello, DevOps World! - приветствие</em>
+</p>
