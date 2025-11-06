@@ -26,3 +26,5 @@ My DevOps Project
 
   
 Скриншоты: 
+ [Hello, DevOps World!](my-first-devops/Hello, DevOps World!.png)
+ 
