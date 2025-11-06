@@ -3,10 +3,6 @@ My DevOps Project
 This is my step into the world of DevOps.
 My DevOps Project
 
-Описание проекта
-Этот проект представляет собой пошаговое руководство по настройке базового DevOps-окружения, включая работу с Git, GitHub и Docker.
-
-
 Выполненные шаги
 Часть 0: Настройка виртуальной машины
 Создана виртуальная машина с Ubuntu Server 22.04 LTS в VirtualBox
